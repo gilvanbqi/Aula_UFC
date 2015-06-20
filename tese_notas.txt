@@ -1,4 +1,3 @@
-modificacao local
 CABECALHO
 
 delete a primeira linha
