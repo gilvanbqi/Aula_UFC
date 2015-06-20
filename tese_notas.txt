@@ -1,4 +1,4 @@
-CABEÇALHO
+CABECALHO
 
 delete a primeira linha
 vou fazer outra
